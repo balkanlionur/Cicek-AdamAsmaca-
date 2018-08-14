@@ -1,0 +1,21 @@
+c:\users\onur.balkanli\documents\visual studio 2015\Projects\Cicek\Cicek\bin\Debug\Cicek.exe.config
+c:\users\onur.balkanli\documents\visual studio 2015\Projects\Cicek\Cicek\obj\Debug\Cicek.csprojResolveAssemblyReference.cache
+c:\users\onur.balkanli\documents\visual studio 2015\Projects\Cicek\Cicek\obj\Debug\Cicek.Form1.resources
+c:\users\onur.balkanli\documents\visual studio 2015\Projects\Cicek\Cicek\obj\Debug\Cicek.Properties.Resources.resources
+c:\users\onur.balkanli\documents\visual studio 2015\Projects\Cicek\Cicek\obj\Debug\Cicek.csproj.GenerateResource.Cache
+c:\users\onur.balkanli\documents\visual studio 2015\Projects\Cicek\Cicek\bin\Debug\Cicek.exe
+c:\users\onur.balkanli\documents\visual studio 2015\Projects\Cicek\Cicek\bin\Debug\Cicek.pdb
+c:\users\onur.balkanli\documents\visual studio 2015\Projects\Cicek\Cicek\obj\Debug\Cicek.exe
+c:\users\onur.balkanli\documents\visual studio 2015\Projects\Cicek\Cicek\obj\Debug\Cicek.pdb
+C:\Users\Onur Balkanli\Desktop\Cicek-20180309T173003Z-001\Cicek\Cicek\bin\Debug\Cicek.exe.config
+C:\Users\Onur Balkanli\Desktop\Cicek-20180309T173003Z-001\Cicek\Cicek\obj\Debug\Cicek.exe
+C:\Users\Onur Balkanli\Desktop\Cicek-20180309T173003Z-001\Cicek\Cicek\obj\Debug\Cicek.pdb
+C:\Users\Onur Balkanli\Desktop\Cicek-20180309T173003Z-001\Cicek\Cicek\bin\Debug\Cicek.exe
+C:\Users\Onur Balkanli\Desktop\Cicek-20180309T173003Z-001\Cicek\Cicek\bin\Debug\Cicek.pdb
+C:\Users\Onur Balkanli\Desktop\Cicek-20180309T173003Z-001\Cicek\Cicek\obj\Debug\Cicek.csprojResolveAssemblyReference.cache
+C:\Users\Onur Balkanli\Desktop\Cicek-20180309T173003Z-001\Cicek\Cicek\obj\Debug\Cicek.Form1.resources
+C:\Users\Onur Balkanli\Desktop\Cicek-20180309T173003Z-001\Cicek\Cicek\obj\Debug\Cicek.Properties.Resources.resources
+C:\Users\Onur Balkanli\Desktop\Cicek-20180309T173003Z-001\Cicek\Cicek\obj\Debug\Cicek.csproj.GenerateResource.Cache
+C:\Users\Onur Balkanli\Desktop\Bilge Adam Ödev\Cicek\Cicek\bin\Debug\Cicek.exe.config
+C:\Users\Onur Balkanli\Desktop\Bilge Adam Ödev\Cicek\Cicek\obj\Debug\Cicek.exe
+C:\Users\Onur Balkanli\Desktop\Bilge Adam Ödev\Cicek\Cicek\obj\Debug\Cicek.pdb
